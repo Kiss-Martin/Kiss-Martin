@@ -1,5 +1,5 @@
 # - 👋 Hi, I’m @Kiss-Martin
-- 👀 I’m interested in edesanyad
+- 👀 I’m interested in making websites
 - 🌱 I’m currently learning meme culture
 - 💞️ I’m looking to collaborate on crypto scams
 - 📫 How to reach me: Discord Mörcs#6342
