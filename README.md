@@ -2,7 +2,7 @@
 - 👀 I’m interested in making websites
 - 🌱 I’m currently learning meme culture
 - 💞️ I’m looking to collaborate on crypto scams
-- 📫 How to reach me: Discord Mörcs#6342
+- 📫 How to reach me: Discord twoshy_#3707
 
 <!---
 Kiss-Martin/Kiss-Martin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
