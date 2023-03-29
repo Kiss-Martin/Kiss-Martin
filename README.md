@@ -1,8 +1,8 @@
-#  👋 Hi, I’m @Kiss-Martin
-- 👀 I’m interested in making websites
-- 🌱 I’m currently learning meme culture
-- 💞️ I’m looking to collaborate on crypto scams
-- 📫 How to reach me: Discord twoshy_#3707
+#  👋 Hi, I’m JENŐ
+- 👀 I’m interested in JENŐ
+- 🌱 I’m currently learning JENŐ
+- 💞️ I’m looking to collaborate on JENŐ
+- 📫 How to reach me: JENŐ
 
 <!---
 Kiss-Martin/Kiss-Martin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
